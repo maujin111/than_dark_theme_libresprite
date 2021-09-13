@@ -24,5 +24,5 @@ Go to *Edit/Preferences/Theme*, you can see there are 2 paths at the top of the 
 
 Choose 1 of them then click *Open Folder*. Copy the file you've just downloaded here and extract it.
 
-### 3. Activate the theme
+### 3. Apply theme
 Open the *Preferences/Theme* dialog again, choose **than_dark_theme_libresprite** from the list, click *Select* then click *OK*. Restart Aseprite to make the change happen.
